@@ -19,6 +19,8 @@ git collage
 - `git branch branch-name`: Create a new branch
 - `git checkout branch-name`: Switch to a branch
 - `git merge branch-name`: Merge a branch into the active branch
+- `git branch -d branch-name`: Delete a branch
+- 'git checkout -b branch-name': Create a new branch and switch to it
 
 ## Stashing
 
